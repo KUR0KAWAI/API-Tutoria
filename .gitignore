@@ -1,0 +1,27 @@
+# Variables de entorno (Sensible)
+.env
+backend/.env
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de log y debug
+*.log
+backend/debug_upload.log
+debug_clean.php
+debug_code_values.txt
+debug_codes.php
+debug_montece.php
+debug_montece_service.php
+debug_output.txt
+debug_service.log
+debug_short.php
+debug_tutoria_detalle.php
+debug_tutoria_schema.php
+
+# Otros
+.DS_Store
+Thumbs.db
