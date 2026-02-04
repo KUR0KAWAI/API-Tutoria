@@ -75,7 +75,7 @@ Es obligatorio activar las siguientes extensiones para que la API funcione (CURL
 ### 4. Ejecución
 Usa el servidor interno de PHP para pruebas rápidas:
 ```bash
-php -S localhost:8000 -t public
+php -S localhost:8000 -t backend/public
 ```
 
 ## 📖 Documentación de la API
